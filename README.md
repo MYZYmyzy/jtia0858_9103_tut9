@@ -1,7 +1,10 @@
-# jtia0858_9103_tut9
+# assignment8
 *I have often seen motion effects in films that mimic natural phenomena, and after doing some research, I identified them as particle technology. I hope to incorporate particle technology into my project and help me create visual effects that resemble realistic images.Particle technology is advantageous for our final design. It is dynamic, random, and scalable, and these characteristics help us improve the final work. For example, randomly generated particles can make the image look more natural and realistic, and preset data can limit the randomness of the particles to make them fit the requirements.*
 
 ![An image of particle1](https://images.ctfassets.net/cnu0m8re1exe/7LelgNPcYdXbMEHdZoVwis/54e22f87a87c5aba880a623c107a462a/timetravel.jpg?fm=jpg&fl=progressive&w=660&h=433&fit=fill)
 
+![An image of particle2](https://www.advancedsciencenews.com/wp-content/uploads/2022/06/abstract-colors-on-a-black-background.jpg)
 
-![An image of particle2](https://www.google.com/imgres?q=particle&imgurl=https%3A%2F%2Fd12oja0ew7x0i8.cloudfront.net%2Fimages%2FArticle_Images%2FImageForArticle_12757_450763554279050959699.jpg&imgrefurl=https%3A%2F%2Fwww.azom.com%2Farticle.aspx%3FArticleID%3D12757&docid=cEn1laNTELI3PM&tbnid=Qad_ig9NoViROM&vet=12ahUKEwi5na3a2u6FAxUXsFYBHWIUADgQM3oECHUQAA..i&w=1000&h=667&hcb=2&ved=2ahUKEwi5na3a2u6FAxUXsFYBHWIUADgQM3oECHUQAA)
+*This imaging technique can be achieved with p5.js, where we use p5 to create particles that have a circle as their basic shape. These particles can be used as part of the artwork. For example, Emily Kame Kngwarreye's 'Ntange II (Grass)' uses a circle as a background to fill in the artwork and make it look complete. Using p5, we can create particles with a circle as the basic shape that can fill the canvas with rich art.*
+
+[Link text](https://www.youtube.com/watch?v=yAyiQKNVtY8)
