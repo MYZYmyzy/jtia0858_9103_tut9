@@ -1,2 +1,7 @@
 # jtia0858_9103_tut9
-![An image of a cat](http://placekitten.com/200/300Links to an external site.)
+*I have often seen motion effects in films that mimic natural phenomena, and after doing some research, I identified them as particle technology. I hope to incorporate particle technology into my project and help me create visual effects that resemble realistic images.Particle technology is advantageous for our final design. It is dynamic, random, and scalable, and these characteristics help us improve the final work. For example, randomly generated particles can make the image look more natural and realistic, and preset data can limit the randomness of the particles to make them fit the requirements.*
+
+![An image of particle1](https://www.google.com/imgres?q=particle&imgurl=https%3A%2F%2Fimg.freepik.com%2Ffree-photo%2Fabstract-particles-glitter-background_1017-32786.jpg%3Fsize%3D626%26ext%3Djpg%26ga%3DGA1.1.553209589.1714521600%26semt%3Dsph&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fparticles&docid=N57u6Ff80-RcbM&tbnid=2IVRS1KRLY330M&vet=12ahUKEwi5na3a2u6FAxUXsFYBHWIUADgQM3oECHgQAA..i&w=626&h=357&hcb=2&ved=2ahUKEwi5na3a2u6FAxUXsFYBHWIUADgQM3oECHgQAA)
+
+
+![An image of particle2](https://www.google.com/imgres?q=particle&imgurl=https%3A%2F%2Fd12oja0ew7x0i8.cloudfront.net%2Fimages%2FArticle_Images%2FImageForArticle_12757_450763554279050959699.jpg&imgrefurl=https%3A%2F%2Fwww.azom.com%2Farticle.aspx%3FArticleID%3D12757&docid=cEn1laNTELI3PM&tbnid=Qad_ig9NoViROM&vet=12ahUKEwi5na3a2u6FAxUXsFYBHWIUADgQM3oECHUQAA..i&w=1000&h=667&hcb=2&ved=2ahUKEwi5na3a2u6FAxUXsFYBHWIUADgQM3oECHUQAA)
